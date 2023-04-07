@@ -2,8 +2,11 @@ body{
   background:rgba(0,0,0,0.85);
 }
 #container{
-width:420px;
-position: relative;
+  width:400px;
+  padding:5px;
+  border-radius:5px;
+  border: 1px solid white;
+  position: relative;
   left: 40%;
   transform: translateY(50%);
 }
