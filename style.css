@@ -6,9 +6,10 @@ body{
   padding:5px;
   border-radius:5px;
   border: 1px solid white;
-  position: relative;
-  left: 40%;
-  transform: translateY(50%);
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
 .row{
   display:flex;
